@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "reviewer": "John Doe",
+      "restaurant": {
+        "name": "The Gourmet Bistro",
+        "location": "New York, NY"
+      },
+      "review": "The pasta here is absolutely incredible, and the service was top-notch! Every dish was crafted to perfection, and the ambiance made it a truly memorable dining experience. Highly recommended for Italian food lovers."
+    },
+    {
+      "id": 2,
+      "reviewer": "Jane Smith",
+      "restaurant": {
+        "name": "Spice Symphony",
+        "location": "Los Angeles, CA"
+      },
+      "review": "A perfect blend of spices and flavors! I was amazed by the authenticity of their Indian cuisine. The staff was friendly, and the portion sizes were generous. I can’t wait to come back for more!"
+    },
+    {
+      "id": 3,
+      "reviewer": "Michael Johnson",
+      "restaurant": {
+        "name": "Sushi Zen",
+        "location": "San Francisco, CA"
+      },
+      "review": "The sushi was fresh and flavorful. The chef's attention to detail was evident in every bite. I loved the cozy ambiance, and the staff made sure everything was perfect. A must-visit for sushi enthusiasts."
+    },
+    {
+      "id": 4,
+      "reviewer": "Emily Brown",
+      "restaurant": {
+        "name": "BBQ Haven",
+        "location": "Austin, TX"
+      },
+      "review": "If you’re a BBQ lover, this place is heaven! The ribs were tender and juicy, and the sauces were divine. The sides were just as good, especially the cornbread. This is hands down the best BBQ spot in town."
+    },
+    {
+      "id": 5,
+      "reviewer": "Chris Miller",
+      "restaurant": {
+        "name": "Green Earth Cafe",
+        "location": "Portland, OR"
+      },
+      "review": "A haven for vegans and vegetarians! The dishes were creative, fresh, and bursting with flavor. The avocado toast was the best I’ve ever had. I’ll definitely be back for more healthy and delicious meals."
+    },
+    {
+      "id": 6,
+      "reviewer": "Sophia Wilson",
+      "restaurant": {
+        "name": "Parisian Delights",
+        "location": "Chicago, IL"
+      },
+      "review": "This quaint French cafe is a gem! The croissants were flaky and buttery, and the coffee was rich and smooth. It felt like a little slice of Paris in the heart of Chicago. A wonderful spot for breakfast or brunch."
+    }
+  ]
+  

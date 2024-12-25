@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "The Gourmet Bistro",
+      "cuisine": "Italian",
+      "location": "New York, NY",
+      "rating": 4.5,
+      "image": "https://th.bing.com/th/id/OIP.euiufUrsBeFP7hMDZFWqcgHaFO?w=248&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+    {
+      "id": 2,
+      "name": "Spice Symphony",
+      "cuisine": "Indian",
+      "location": "Los Angeles, CA",
+      "rating": 4.7,
+      "image": "src/assets/images/spice-symphony.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Sushi Zen",
+      "cuisine": "Japanese",
+      "location": "San Francisco, CA",
+      "rating": 4.8,
+      "image": "src/assets/images/sushi.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "BBQ Haven",
+      "cuisine": "Barbecue",
+      "location": "Austin, TX",
+      "rating": 4.6,
+      "image": "src/assets/images/bbq.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Seafood Delight",
+      "cuisine": "Seafood",
+      "location": "Miami, FL",
+      "rating": 4.4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNF_H-oEX46yWdomfsv-wtStgvhrcLMPiARA&s"
+    },
+    {
+      "id": 6,
+      "name": "Cafe Aroma",
+      "cuisine": "Cafe",
+      "location": "Seattle, WA",
+      "rating": 4.3,
+      "image": "src/assets/images/aroma.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Urban Tacos",
+      "cuisine": "Mexican",
+      "location": "San Diego, CA",
+      "rating": 4.2,
+      "image": "src/assets/images/urban.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Le Petite Chateau",
+      "cuisine": "French",
+      "location": "Chicago, IL",
+      "rating": 4.9,
+      "image": "src/assets/images/lepetite.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Burger Bliss",
+      "cuisine": "American",
+      "location": "Las Vegas, NV",
+      "rating": 4.0,
+      "image": "src/assets/images/bliss.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Pasta Paradise",
+      "cuisine": "Italian",
+      "location": "Boston, MA",
+      "rating": 4.6,
+      "image": "src/assets/images/paradise.jpeg" 
+    }
+  ]
+  
